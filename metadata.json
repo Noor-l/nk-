@@ -1,0 +1,6 @@
+{
+  "name": "Zakat Calculator & Wealth Assessment Portal",
+  "description": "Comprehensive Islamic Zakat Calculator with live Nisab gold and silver threshold tracking, asset breakdown, debt deduction, and authentic fiqh guidelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
